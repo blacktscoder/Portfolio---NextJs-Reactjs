@@ -13,6 +13,26 @@ const userData = {
       imgUrl: "/WebVsAppPredictiveModeling.png",
     },
     {
+      title: "Cricket World Cup Analysis in PowerBI ",
+      link: "https://app.powerbi.com/groups/me/reports/99ee818d-4f7e-4c3d-b0ed-6a38666b62a7/ReportSection",
+      imgUrl: "/CricketWorldCup.png",
+    },
+    {
+      title: "Email Marketing Analysis in PowerBI",
+      link: "https://github.com/digitaltk/Email-Marketing-Analysis",
+      imgUrl: "/marketing.png",
+    },
+    {
+      title: "Unemployment Data Analysis in PowerBI",
+      link: "https://github.com/digitaltk/Unemployment-Data-Analysis",
+      imgUrl: "/unemployment.png",
+    },
+    {
+      title: "Olympics Dataset Analysis in PowerBI",
+      link: "https://github.com/digitaltk/Olympics-Dataset-Analysis",
+      imgUrl: "/olympicsdata.png",
+    },
+    {
       title: "Spam Detection with Naive Bayes",
       link: "https://github.com/digitaltk/Spam-Classifier-using-Naive-Bayes",
       imgUrl: "/SpamDetection.png",
