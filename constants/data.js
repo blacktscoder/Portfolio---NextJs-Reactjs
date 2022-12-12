@@ -1,7 +1,8 @@
 const userData = {
   githubUsername: "digitaltk",
   name: "Tatenda Makandigona",
-  designation: "Marketing Data Analyst | Data Scientist | Web Developer",
+  designation:
+    "Digital Marketing Expert | Data Scientist/Analyst | Web Developer",
   avatarUrl: "/avatar.png",
   email: "tindxmathew@hotmail.com",
   phone: "+263 778323993",
