@@ -1,11 +1,10 @@
 const userData = {
   githubUsername: "digitaltk",
   name: "Tatenda Makandigona",
-  designation:
-    "Digital Marketing Expert | Data Scientist/Analyst | Web Developer",
+  designation: "Digital Marketing Analyst | Web Developer",
   avatarUrl: "/avatar.png",
   email: "tindxmathew@hotmail.com",
-  phone: "+263 778323993",
+  phone: "+263778323993",
   address: "Harare, Zimbabwe.",
   projects: [
     {
@@ -66,15 +65,15 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a data scientist that loves sats, data wrangling, data mining, data analysis, feature engineering & predictive modeling, storytelling, data visualisation",
+      "I'm a data analyst (marketing) that loves marketing research, inbound/outbound marketing activities, marketing research, inbound/outbound marketing activities",
     description: [
-      `Analyse & interpret complex data sets.`,
-      `Present data analysis (trends, insights, forecasts) & findings to business & show tangible business impact to be derived from the data science process.`,
-      `Good thing? I'm a proficient in data analysis - power bi, matplotlib, seaborn & etc - web design, paid advertisitng - certified in google & twitter & facebook ads  - ,graphic design - Adobe Creative Suite -  & copywriting`,
+      `Identify target demographics on Facebook and Instagram, with testing and iteration to optimize for KPIs (ranging from ROI, revenue, conversion).`,
+      `Optimization (SEO) to improve organic research and click-through rate (CTR).`,
+      `Good thing? I'm a proficient in Data Analysis, SEO, SEM, Google Data Studio, PowerBI, Advanced Excel - Performed digital campaigns analysis and website performance analysis to drive customer acquisition and retention, lead conversion and sales using google analytics`,
     ],
-    currentProject: "Spam Detection with Naive Bayes",
+    currentProject: "Generate-Google-Ads-Keywords-in-Python",
     currentProjectUrl:
-      "https://github.com/digitaltk/Spam-Classifier-using-Naive-Bayes",
+      "https://github.com/digitaltk/Generate-Google-Ads-Keywords-in-Python",
   },
   experience: [
     {
